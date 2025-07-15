@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background: #f9f9f9; color: #222; text-align: center; direction: rtl; }
+header { background: #002366; color: white; padding: 2em 0; }
+.btn { background: #d4af37; color: black; padding: 1em; text-decoration: none; border-radius: 10px; }
+main { padding: 2em; }
+footer { background: #ddd; padding: 1em; font-size: 0.8em; margin-top: 2em; }
